@@ -1,0 +1,11 @@
+{
+  "extends": ["config:recommended"],
+  "timezone": "UTC",
+  "automerge": false,
+  "packageRules": [
+    {
+      "matchManagers": ["npm", "pip", "cargo"],
+      "groupName": "all-dependencies"
+    }
+  ]
+    }
