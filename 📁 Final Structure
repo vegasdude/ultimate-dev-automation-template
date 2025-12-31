@@ -1,0 +1,15 @@
+ultimate-dev-automation-template/
+ ├─ .github/
+ │   ├─ dependabot.yml
+ │   ├─ workflows/
+ │   │   ├─ ci-js.yml
+ │   │   ├─ ci-python.yml
+ │   │   ├─ ci-rust.yml
+ │   │   └─ codeql.yml
+ ├─ renovate.json
+ ├─ package.json
+ ├─ requirements.txt
+ ├─ src/main.rs
+ ├─ app.js
+ ├─ README.md
+ └─ LICENSE
